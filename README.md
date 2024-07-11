@@ -1,2 +1,2 @@
 # MENTORNESS
-Data Analyst Intern
+Data Analyst and Machine Learning Internship
